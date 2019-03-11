@@ -1,2 +1,48 @@
-I have a dream
-That one day
+Updating 743f652..4625848
+Fast-forward
+ resp0.txt | 1 +
+ 1 file changed, 1 insertion(+)
+Pablos-MacBook-Pro-6:Lab0 Pablo$ history
+    1  biogeme
+    2  ls
+    3  pip install python3
+    4  cancel
+    5  install python3
+    6  cancel
+    7  delete mac
+    8  import numpy as np
+    9  dist = np.random.triangular(5,10,15,683)
+   10  print(dist)
+   11  a = open("datos.txt","w")
+   12  for i in dist:;     print(str(i)+',',file=a)
+   13  a.close()
+   14  ls
+   15  cd
+   16  cd Desktop/
+   17  cd git clone https://github.com/IIC2115/Syllabus
+   18  git clone https://github.com/IIC2115/Syllabus
+   19  cd
+   20  cd Desktop/
+   21  git clone git clone https://github.com/IIC2115/Syllabu
+   22  cd
+   23  cd Desktop/
+   24  git clone https://github.com/IIC2115/Syllabus
+   25  ls
+   26  cd Desktop/
+   27  cd Lab0/
+   28  ls
+   29  git add *
+   30  git commit -m "hola"
+   31  git push
+   32  git add *
+   33  git commit -m "chao
+
+git add *
+"
+   34  git add *
+   35  git commit -m "chao"
+   36  git push
+   37  git pull
+   38  history
+Pablos-MacBook-Pro-6:Lab0 Pablo$ 
+
